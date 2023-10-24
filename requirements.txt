@@ -22,5 +22,5 @@ unidic-lite
 cmudict
 fugashi
 num2words
-openai-wisper
+openai-whisper
 
