@@ -6,6 +6,7 @@ phonemizer
 scipy
 tensorboard
 torch
+torchaudio
 torchvision
 Unidecode
 amfm_decompy
@@ -21,3 +22,5 @@ unidic-lite
 cmudict
 fugashi
 num2words
+openai-wisper
+
